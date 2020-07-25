@@ -5,11 +5,11 @@
 
 ## Olá! 👋
 
-Me chamo Larissa Pereira, Graduanda em Ciência da Computação e apaixonada por Testes de Software e :coffee:.
+Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por Testes de Software e :coffee:.
 
  - :heart: Frameworks: Cypress, Cucumber, RobotFramework, Pytest
 
- ## :triangular_flag_on_post: Habilidades Tecnologias
+ ## :triangular_flag_on_post: Algumas Tecnologias
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
