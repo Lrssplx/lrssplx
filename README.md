@@ -7,7 +7,7 @@
 
 Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por Testes de Software e :coffee:. Gosto de estar aprendendo novas tecnologias e estudando constantemente sobre qualidade de software.
 
- - :heart: Frameworks: Cypress, Cucumber, RobotFramework, Pytest
+ - :heart: Frameworks: Cypress, Selenium, Cucumber, RobotFramework, Pytest
 
  ## :triangular_flag_on_post: Algumas Tecnologias
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
@@ -20,12 +20,6 @@ Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por 
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-
-
-
-
-
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrssplx)](https://github.com/Lrssplx/github-readme-stats) 
 <p align="center"> 
  Contagem de visitantes<br>
