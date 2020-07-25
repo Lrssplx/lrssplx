@@ -7,23 +7,17 @@
 
 Me chamo Larissa Pereira, Graduanda em Ciência da Computação e apaixonada por Testes de Software e :coffee:.
 
- - :books:  Estagiário Desenvolvedor na **LUMO - Laboratório de Computação Ubíqua e Móvel**
+ - :books:  Estagiária Desenvolvedora na **LUMO - Laboratório de Computação Ubíqua e Móvel**
  ## :triangular_flag_on_post: Habilidades técnicas
 - JavaScript, Java, C
 - HTML5, CSS3, Python
 - Git, MySql, Scrum
 - Cypress, Cucumber, RobotFramework, Pytest
- 
-
-
- <div align="center">
-
-<img height="120" alt="Obrigada por visitar meu perfil!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/Lrssplx/count.svg)
 
 
  
-
-</div>
+   
+<p align="center"> 
+ Contagem de visitantes<br>
+  <img src="https://profile-counter.glitch.me/Lrssplx/count.svg" />
+</p>
