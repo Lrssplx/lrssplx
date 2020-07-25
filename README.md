@@ -1,7 +1,7 @@
 #  Larissa Pereira de Oliveira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lrssplx)](https://github.com/Lrssplx)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lrssplx/)](www.linkedin.com/in/lrssplx/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lrssplx@gmail.com)](mailto:lrssplx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lrssplx/)](https://www.linkedin.com/in/lrssplx/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lrssplx@gmail.com)](mailto:lrssplx@gmail.com)
 
 ## Olá! 👋
 
