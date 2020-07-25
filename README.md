@@ -13,10 +13,8 @@ Me chamo Larissa Pereira, Graduanda em Ciência da Computação e apaixonada por
 - HTML5, CSS3, Python
 - Git, MySql, Scrum
 - Cypress, Cucumber, RobotFramework, Pytest
-
-
  
-   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrssplx)](https://github.com/Lrssplx/github-readme-stats) 
 <p align="center"> 
  Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/Lrssplx/count.svg" />
