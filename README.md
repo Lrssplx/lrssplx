@@ -5,7 +5,7 @@
 
 ## Olá! 👋
 
-Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por Testes de Software e :coffee:.
+Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por Testes de Software e :coffee:. Gosto de estar aprendendo novas tecnologias e estudando constantemente sobre qualidade de software.
 
  - :heart: Frameworks: Cypress, Cucumber, RobotFramework, Pytest
 
