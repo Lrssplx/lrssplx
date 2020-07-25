@@ -8,14 +8,9 @@
 
 Me chamo Larissa Pereira, Graduanda em Ciência da Computação e apaixonada por Testes de Software.
 
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+ - :books:  Estagiário Desenvolvedor na **LUMO - Laboratório de Computação Ubíqua e Móvel**
  
 
----
- 
- 
 
  <div align="center">
 
