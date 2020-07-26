@@ -20,7 +20,7 @@ Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por 
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lrssplx&show_icons=true&theme=tokyonight)
+  
   
   
 
