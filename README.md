@@ -7,7 +7,7 @@
 
 Me chamo Larissa Pereira, Graduanda em Ciência da Computação, apaixonada por Testes de Software e um bom café :coffee:. Gosto de estar aprendendo novas tecnologias e estudando constantemente sobre qualidade de software.
 
- - :heart: Frameworks: Cypress, Selenium, Cucumber, RobotFramework, Pytest.
+ - :heart: Frameworks: Cypress, Selenium, Cucumber, Robot, Pytest.
 
  ## :triangular_flag_on_post: Algumas Tecnologias
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
