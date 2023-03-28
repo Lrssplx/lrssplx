@@ -5,7 +5,7 @@
 
 ## Olá! 👋
 
-Me chamo Larissa Pereira, Cientista da Computação, apaixonada por Testes de Software e um bom café :coffee:. Gosto de estar aprendendo novas tecnologias e estudando constantemente sobre qualidade de software.
+Cientista da Computação, apaixonada por Testes de Software e um bom café :coffee:. Gosto de estar aprendendo novas tecnologias e estudando constantemente sobre qualidade de software.
 
  - :heart: Frameworks: Cypress, Selenium, Cucumber, Robot, Pytest.
 
