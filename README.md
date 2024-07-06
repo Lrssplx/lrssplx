@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e estudo
 ## Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrssplx&show_icons=true&theme=dark)
-[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lrssplxo&show_icons=true&theme=dark)
+[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lrssplx&show_icons=true&theme=dark)
  
 
 
