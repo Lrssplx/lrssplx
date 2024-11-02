@@ -10,9 +10,6 @@
 
 Sou apaixonada por Qualidade Software e estou constantemente explorando novas tecnologias e ideias para melhorar minhas habilidades.
 
-- 🌱 Atualmente estou aprendendo [tecnologia ou tópico interessante]
-- 💬 Pergunte-me sobre [área de expertise]
-
 ## Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e estudo:
